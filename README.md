@@ -6,7 +6,6 @@ I am a **Software Engineer** and **AI Advocate** based in Nigeria. I specialize 
   - **GroupWallet**: A startup focused on shared financial solutions.
   - **DesynAI**: An AI-powered platform for designers and frontend developers.
   - **Echo**: A non-profit initiative providing visibility for under-represented tech professionals.
-  -**Thrifta**: A finctech startup for managing finances. I am the lead frontend for the project
 
 - 🎥 **Content Creation:**
   - I share insights on gaming and professional engineering practices at **GamersProgrammer**.
