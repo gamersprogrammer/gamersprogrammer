@@ -3,7 +3,6 @@
 I am a **Software Engineer** and **AI Advocate** based in Nigeria. I specialize in building scalable frontend architectures and cross-platform mobile solutions.
 
 - 🔭 **I’m currently working on:**
-  - **GroupWallet**: A startup focused on shared financial solutions.
   - **DesynAI**: An AI-powered platform for designers and frontend developers.
   - **Echo**: A non-profit initiative providing visibility for under-represented tech professionals.
 
