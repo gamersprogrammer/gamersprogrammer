@@ -8,7 +8,6 @@ I am a **Software Engineer** and **AI/ML Engineer** based in Nigeria with over t
   - **Readable Receipt:** An AI-powered Web3 transaction validator extension and website.
   - **Echo:** A "blind-build" hackathon platform featuring a competitive mode and data persistence.
   - **DesynAI:** An AI-powered platform for designers and frontend developers.
-  - **Thrifta:** A fintech startup for managing finances, serving as the Lead Frontend Engineer.
   - **FlyRank AI** A backend AI engineer intern (self-paced learning).
   - **Dealr** Lead Backend fastAPI Engineer. Built the entire backend system including rate limiters etc.
 
