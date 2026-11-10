@@ -11,7 +11,7 @@ Nigeria • 3+ Years Experience • [Portfolio](https://gamersprogrammer.vercel.
 
 ---
 
-### 📊 GitHub Activity Dashboard
+### GitHub Activity Dashboard
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gamersprogrammer&theme=transparent&hide_border=true&show_icons=true&title_color=58A6FF&icon_color=58A6FF&text_color=768390" width="48%" alt="GitHub Stats" />
@@ -20,7 +20,7 @@ Nigeria • 3+ Years Experience • [Portfolio](https://gamersprogrammer.vercel.
 
 ---
 
-### ⚙️ Technical Competencies
+### Technical Competencies
 
 <div align="center">
 
@@ -39,30 +39,27 @@ Nigeria • 3+ Years Experience • [Portfolio](https://gamersprogrammer.vercel.
 | :--- | :--- |
 | **Languages** | TypeScript, Python, JavaScript, SQL |
 | **Frontend & Mobile** | React, React Native, Tailwind CSS, Figma |
-| **Backend & AI** | FastAPI, Node.js, CNNs, Generative AI Pipelines, Prompt Engineering |
-| **Infrastructure & Web3**| Linux Workspace, Solana Development, On-chain Analytics |
+| **Backend & AI** | FastAPI, CNNs, Generative AI Pipelines, Prompt Engineering |
 
 ---
 
-### 🚀 Active Engineering Roles & Projects
+### Active Engineering Roles & Projects
 
-| Project / Organization | Architecture | Role & Contribution |
+| Project / Organization | Architecture | Role & Contribution | Link |
 | :--- | :--- | :--- |
-| **Proffeta** | `React` `FastAPI` `AI` | **Co-founder:** Developing an AI data annotation and expert talent assessment platform matching candidates via automated parsing. |
-| **Deala** | `Python` `FastAPI` | **Lead Backend Engineer:** Architected the backend infrastructure and rate limiters for a platform tailored to Instagram vendors. |
-| **Readable Receipt** | `Web3` `GenAI` | **Engineer:** Building an AI-powered Web3 transaction validator extension and web interface. |
-| **Echo** | `Full-Stack` | **Creator:** Built a "blind-build" hackathon platform featuring a competitive mode and data persistence. |
-| **ridR** | `React Native` | **Developer:** Engineering a campus ride-booking application with interactive seat-mapping. |
-| **Betha Groups** | `Prompt Engineering`| **Volunteer:** Serving as an AI/ML and AI Prompt Engineer. |
-| **DesynAI** | `UI/UX` `AI` | **Developer:** Creating an AI-powered platform bridging designers and frontend developers. |
+| **Proffeta** | `React` `FastAPI` `AI` | **Software Engineer:** Developing an AI data annotation and expert talent assessment platform matching candidates via automated parsing. | proffeta.com |
+| **Deala** | `Python` `FastAPI` | **Lead Backend Engineer:** Architected the backend infrastructure and rate limiters for a platform tailored to Instagram vendors. | usedeala.com |
+| **Echo** | `Full-Stack` | **Creator:** Built a "blind-build" hackathon platform featuring a competitive mode and data persistence. | echo-test-v1.vercel.app |
+| **ridR** | `React Native` | **Developer:** Engineering a campus ride-booking application with interactive seat-mapping. | ridr-test.vervel.app |
+| **DesynAI** | `UI/UX` `AI` | **Developer:** Creating an AI-powered platform bridging designers and frontend developers. | n/a
 
 ---
 
-### 📡 Professional Engagements & Research
+### Professional Engagements & Research
 
 * **Building in Public:** I actively document technical milestones, architectural RFCs, and engineering resilience on my [LinkedIn](https://linkedin.com/in/gamersprogrammer).
-* **Technical Advocacy:** Sharing insights on professional engineering practices, AI development, and latency optimization under **GamersProgrammer**.
-* **Current Research:** Deep diving into advanced data science concepts, Web3 transaction analysis, and medical diagnostic models using Python.
+* **Technical Advocacy:** Sharing insights on professional engineering practices, AI development, and latency optimization under **gamersprogrammer**.
+* **Current Research:** Deep diving into advanced data science concepts, and medical diagnostic models using Python.
 * **Collaboration Interests:** Open-source projects that bridge the gap between AI and intuitive UI/UX, and fast-paced hackathons solving real-world infrastructure problems.
 
 <div align="center">
