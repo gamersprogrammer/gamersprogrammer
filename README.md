@@ -15,7 +15,7 @@ Nigeria • 3+ Years Experience • [Portfolio](https://gamersprogrammer.vercel.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gamersprogrammer&theme=transparent&hide_border=true&show_icons=true&title_color=58A6FF&icon_color=58A6FF&text_color=768390" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamersprogrammer&theme=transparent&hide_border=true&title_color=58A6FF&sideNums=768390&sideLabels=768390&ring=58A6FF&fire=58A6FF&currStreakNum=768390" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gamersprogrammer&theme=transparent&hide_border=true&title_color=58A6FF&text_color=768390&ring=58A6FF&fire=58A6FF&currStreakNum=768390" width="48%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -46,21 +46,21 @@ Nigeria • 3+ Years Experience • [Portfolio](https://gamersprogrammer.vercel.
 ### Active Engineering Roles & Projects
 
 | Project / Organization | Architecture | Role & Contribution | Link |
-| :--- | :--- | :--- |
-| **Proffeta** | `React` `FastAPI` `AI` | **Software Engineer:** Developing an AI data annotation and expert talent assessment platform matching candidates via automated parsing. | proffeta.com |
-| **Deala** | `Python` `FastAPI` | **Lead Backend Engineer:** Architected the backend infrastructure and rate limiters for a platform tailored to Instagram vendors. | usedeala.com |
-| **Echo** | `Full-Stack` | **Creator:** Built a "blind-build" hackathon platform featuring a competitive mode and data persistence. | echo-test-v1.vercel.app |
-| **ridR** | `React Native` | **Developer:** Engineering a campus ride-booking application with interactive seat-mapping. | ridr-test.vervel.app |
-| **DesynAI** | `UI/UX` `AI` | **Developer:** Creating an AI-powered platform bridging designers and frontend developers. | n/a
+| :--- | :--- | :--- | :--- |
+| **Proffeta** | `React` `FastAPI` `AI` | **Software Engineer:** Developing an AI data annotation and expert talent assessment platform matching candidates via automated parsing. | [proffeta.com](https://proffeta.com) |
+| **Deala** | `Python` `FastAPI` | **Lead Backend Engineer:** Architected the backend infrastructure and rate limiters for a platform tailored to Instagram vendors. | [usedeala.com](https://usedeala.com) |
+| **Echo** | `Full-Stack` | **Creator:** Built a "blind-build" hackathon platform featuring a competitive mode and data persistence. | [echo-test-v1.vercel.app](https://echo-test-v1.vercel.app) |
+| **ridR** | `React Native` | **Developer:** Engineering a campus ride-booking application with interactive seat-mapping. | [ridr-test.vercel.app](https://ridr-test.vercel.app) |
+| **DesynAI** | `UI/UX` `AI` | **Developer:** Creating an AI-powered platform bridging designers and frontend developers. | N/A |
 
 ---
 
 ### Professional Engagements & Research
 
-* **Building in Public:** I actively document technical milestones, architectural RFCs, and engineering resilience on my [LinkedIn](https://linkedin.com/in/gamersprogrammer).
-* **Technical Advocacy:** Sharing insights on professional engineering practices, AI development, and latency optimization under **gamersprogrammer**.
-* **Current Research:** Deep diving into advanced data science concepts, and medical diagnostic models using Python.
-* **Collaboration Interests:** Open-source projects that bridge the gap between AI and intuitive UI/UX, and fast-paced hackathons solving real-world infrastructure problems.
+- **Building in Public:** I actively document technical milestones, architectural RFCs, and engineering resilience on my [LinkedIn](https://linkedin.com/in/gamersprogrammer).
+- **Technical Advocacy:** Sharing insights on professional engineering practices, AI development, and latency optimization under **gamersprogrammer**.
+- **Current Research:** Deep diving into advanced data science concepts, and medical diagnostic models using Python.
+- **Collaboration Interests:** Open-source projects that bridge the gap between AI and intuitive UI/UX, and fast-paced hackathons solving real-world infrastructure problems.
 
 <div align="center">
   <br>
