@@ -14,7 +14,7 @@ Nigeria • 3+ Years Experience • [Portfolio](https://gamersprogrammer.vercel.
 ### GitHub Activity Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamersprogrammer&theme=transparent&hide_border=true&show_icons=true&title_color=58A6FF&icon_color=58A6FF&text_color=768390&v=1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gamersprogrammer&theme=transparent" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=gamersprogrammer&theme=transparent&hide_border=true&title_color=58A6FF&text_color=768390&ring=58A6FF&fire=58A6FF&currStreakNum=768390" width="48%" alt="GitHub Streak" />
 </div>
 
